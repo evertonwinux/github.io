@@ -1,2 +1,3 @@
 # github.io
-Portfólio de Projetos de Análise de Dados. Neste portfólio contém meus projetos pessoais de análise de dados, inclusive de trabalhos reais que realizei para clientes devidamente anonimizados.
+Projeto 1 - Análise de tarifas realizada para empresa de logística, com Excel e Power Point (Case real)
+Projeto 2 - Estudo de caso fictício de e-commerce com Power BI, usando dados reais obtidos do Google Analytics
